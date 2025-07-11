@@ -1,0 +1,12 @@
+/#auto_saved_files#
+fp-info-cache
+*-backups
+*.lck
+/.direnv/
+*.FCBak
+*.html
+*.bak
+
+# public is generated content, but gallery is not
+public/*
+!public/gallery
